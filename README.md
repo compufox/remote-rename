@@ -5,7 +5,7 @@ walks through a directory, going into subdirectories changing any git remotes it
 
 ## Build
 
-clone the repo, and run `make` in the directory
+clone the repo, and run `make` in the directory (assuming you already have a lisp installed)
 
 ## Usage
 
